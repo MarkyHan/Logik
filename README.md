@@ -6,4 +6,4 @@ Na začátku hry uživatel zadá do konzole libovolnou kombinaci pěti čísel v
 + Počet hodnot, které se v zadané kombinaci vyskytují, ale na jiné pozici.
 Není určeno, za která čísla byla přidělena černá nebo bílá.
 
-Hra končí, když počítač vygeneruje správnou kombinaci (vítězný pokus je tedy ohodnocen plným počtem  pěti černých).
+Hra končí, když počítač vygeneruje správnou kombinaci (vítězný pokus je ohodnocen plným počtem pěti černých).
