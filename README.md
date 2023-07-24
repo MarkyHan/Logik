@@ -1,4 +1,5 @@
 # Logik
+*Zápočtový program do předmětu Programování 2* <br />
 Před spuštěním programu je potřeba nainstalovat Python. 
 ## Pravidla
 Na začátku hry uživatel zadá do konzole libovolnou kombinaci pěti čísel v rozmezí 1 až 8, přičemž stejná hodnota se může opakovat vícekrát. Program se tuto kombinaci snaží uhodnout tím, že vytváří kombinaci pěti čísel. Po každém vygenerovaném pokusu probíhá vyhodnocení, na konzoli se zobrazí dvojice čísel, po řadě černé a bílé:
